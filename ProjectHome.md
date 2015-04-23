@@ -1,0 +1,1 @@
+Spark/Plug is an ultra-lightweight web programming framework that is easy to use and even easier to extend. The core framework (spark) is a single file, making it it a breeze to install. Additional functionality can be added easily in the form of extensions (plugs) coded in PHP5.
